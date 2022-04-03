@@ -1,0 +1,11 @@
+﻿  main.cpp
+E:\CppCsharp3NSTU\UMF\laba2\laba2\Grid.h(102,21): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\CppCsharp3NSTU\UMF\laba2\laba2\Grid.h(104,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\CppCsharp3NSTU\UMF\laba2\laba2\Grid.h(105,11): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+E:\CppCsharp3NSTU\UMF\laba2\laba2\Grid.h(138,29): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\CppCsharp3NSTU\UMF\laba2\laba2\FixedPointIteration.h(190,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\CppCsharp3NSTU\UMF\laba2\laba2\FixedPointIteration.h(190,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\CppCsharp3NSTU\UMF\laba2\laba2\FixedPointIteration.h(191,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\CppCsharp3NSTU\UMF\laba2\laba2\FixedPointIteration.h(191,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\CppCsharp3NSTU\UMF\laba2\laba2\Grid.h(117): warning C4715: 'Grid::inSubArea': not all control paths return a value
+  laba2.vcxproj -> E:\CppCsharp3NSTU\UMF\laba2\Debug\laba2.exe
